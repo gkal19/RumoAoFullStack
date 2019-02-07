@@ -58,6 +58,8 @@ Sempre que eu aprender algo estarei postando no [meu blog](https://gkal19.github
 *  Kanban
 *  Scrum
 *  Pair Programming
+*  Google Cloud
+*  AWS
 
 # Links
 * JavaScript
