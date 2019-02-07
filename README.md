@@ -77,4 +77,4 @@ Sempre que eu aprender algo estarei postando no [meu blog](https://gkal19.github
 ## Contributions
 Qualquer pessoa pode estar contribuindo, publicando nos Issues qualquer sugestão, críticas construtivas, links, etc...
 
-> Inspired by: [kamranahmedse/developer-roadmap#-back-end-roadmap](https://github.com/kamranahmedse/developer-roadmap#-introduction) :heart:
+> Inspired by: [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap#-introduction) :heart:
