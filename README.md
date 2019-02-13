@@ -76,7 +76,7 @@ Sempre que eu aprender algo estarei postando no [meu blog](https://gkal19.github
     - [Curso de Python - eXcript](https://www.youtube.com/watch?v=j94IGZmwtYI&list=PLesCEcYj003QxPQ4vTXkt22-E11aQvoVj)
     - [Aulas Python - Ignorância Zero](https://www.youtube.com/watch?v=lJjR906426o&list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe)
 
-## Contributions
+## Contribuições
 Qualquer pessoa pode estar contribuindo, publicando nos Issues qualquer sugestão, críticas construtivas, links, etc...
 
 > Inspired by: [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap#-introduction) :heart:
